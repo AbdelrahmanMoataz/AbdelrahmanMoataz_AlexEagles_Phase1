@@ -1,1 +1,3 @@
-# AbdelrahmanMoataz_AlexEagles_Phase1
+# Important notes
+At the start of code, you can change which sample to test before running the program
+Google drive link for videos and flowchart: https://drive.google.com/drive/folders/1Y3lUVCfaifg8WtC1DiHQrXj9eh5Tv_2o?usp=sharing
